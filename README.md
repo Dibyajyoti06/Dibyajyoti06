@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm Dibyajyoti</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **videotube**
-
-- 🌱 I’m currently learning **AWS**
-
-- 📫 How to reach me **dibyajyotinaik79@gmail.com**
+# 💫 About Me:
+- 🔭 I’m currently working on "videotube"<br>- 🌱 I’m currently learning "AWS"<br>- 📫 How to reach me: dibyajyotinaik79@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +18,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dibyajyoti06&show_icons=true&locale=en" alt="dibyajyoti06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyajyoti06&" alt="dibyajyoti06" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dibyajyoti06&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dibyajyoti06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dibyajyoti06&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 <!--
 **Dibyajyoti06/Dibyajyoti06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
